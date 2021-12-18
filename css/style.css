@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4&display=swap');
+*{
+    margin:0;
+    padding:0;  
+    box-sizing:border-box;
+}
+body{
+    font-family: 'Source Serif 4', sans-serif;
+}
+.navbar{
+    background-image: linear-gradient(135deg, #C33764 10%, #1D2671 100%);
+    font-family: 'Source Serif 4', sans-serif;
+}
+.navbar-brand{
+    color:#ffffff !important;
+    font-family: 'Source Serif 4', sans-serif;
+}
+.navbar-nav .nav-link {
+
+    color:#ffffff !important;
+    font-size:1.1rem;
+    }
+.navbar-toggler{
+        border-color:#ffffff !important;
+    }
+.navbar-toggler-icon{
+        border-color:#ffffff !important;
+    }
+    #head{
+        padding:117px;
+    }
+.hd1{
+    padding:80px;
+
+    }
+    #test{
+        padding:50px;
+        background-image: linear-gradient(135deg, #C33764 10%, #1D2671 100%);
+        color:#fff;
+    }
+    #teach{
+        padding:50px;
+        background-image: linear-gradient(135deg, #C33764 10%, #1D2671 100%);
+       
+    }
+    #contact{
+        padding:50px;
+        
+    }
+    .ftt{
+        background-image: linear-gradient(135deg, #C33764 10%, #1D2671 100%);
+    color:#fff;
+    }
+    #teach h1{
+        color:#fff;
+    }
+    #teach img{
+        
+            width: 65%;
+            border-radius: 50%;
+            margin: 0 auto;
+            box-shadow: 0 0 10px rgba(0,0,0,.2);
+        
+    }
+   #courses{
+       padding:50px;
+   }
+svg{
+color:#ffffff;
+}
+.fas{
+    color:#C33764;
+}
+
+#courses svg{
+    color:#1D2671;  
+}
+#test span{
+    background-image: linear-gradient(135deg, #C33764 10%, #1D2671 100%);
+    color:white;
+    border-radius: 50px;
+    }
+    .btn-primary{
+        background-image: linear-gradient(135deg, #C33764 10%, #1D2671 100%);
+        color:white;
+        border-radius: 50px;
+        border:white;
+    }
