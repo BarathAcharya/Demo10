@@ -90,10 +90,19 @@ color:#ffffff;
         position: fixed;
         bottom: 20px;
         right: 20px;
-        font-size: 18px;
-        width: 40px;
+        /* font-size: 18px;
+        /* width: 40px;
         line-height: 40px;
         z-index: 99;
-        text-align: center;
+        text-align: center; */ */
        
+      }
+      #head h1{
+          font-size: 2.7rem;
+          font-weight: 800;
+      }
+      #teach .card:hover{
+          background-color: #fd8e5e;
+          color:#ffffff;
+    
       }
